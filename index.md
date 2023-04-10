@@ -23,7 +23,7 @@ Expect to graduate in June 2024<br />
 1. [ProgrammerMemes](https://programmermemes.dhguo.dev/) - [Github](https://github.com/HaoyangGuo/recipe-space)
 2. [RecipeSpace](https://recipe-space.dhguo.dev/) - [Github](https://github.com/HaoyangGuo/rslash-programmermemes)
    
-## Favorite Lyrics
+## Favorite Quote
 > Get in the Robot, Shinji
 > 
 > -- <cite>Gendo Ikari</cite>
